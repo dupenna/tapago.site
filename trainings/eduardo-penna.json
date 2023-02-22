@@ -1,6 +1,7 @@
 {
   "name": "Eduardo Penna",
   "birthdate": "1983-02-03",
+  "gender": "male",
   "trainings": [
     {
       "name": "Treino A",
