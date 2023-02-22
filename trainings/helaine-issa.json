@@ -1,0 +1,240 @@
+{
+  "name":"Helaine Issa",
+  "birthdate":"1983-02-03",
+  "gender":"female",
+  "trainings":[
+    {
+      "name":"Treino A",
+      "description":"Quadriceps",
+      "exercises":[
+    {
+        "name": "Leg Press 45",
+        "group": "Quadriceps",
+        "series": 4,
+        "repetitions": "15",
+        "rest": 60,
+        "details": "Tradicional",
+        "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
+    },
+    {
+        "name": "Agachamento Bulgaro",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "10",
+        "rest": 60,
+        "details": "Cada perna",
+        "ilustration_url": "https://gymvisual.com/img/p/1/4/7/3/2/14732.gif"
+    },
+    {
+        "name": "Cadeira Extensora + Unilateral + Bilateral",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "12",
+        "rest": 60,
+        "details": "12 bilateral, 12 unilateral, 12 bilateral",
+        "ilustration_url": "https://gymvisual.com/img/p/7/0/3/8/7038.gif"
+    },
+    {
+        "name": "Agachamento Livre",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "12",
+        "rest": 60,
+        "details": "Slow",
+        "ilustration_url": "https://gymvisual.com/img/p/6/3/3/9/6339.gif"
+    },
+    {
+        "name": "Flexão Plantar Sentada",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "20",
+        "rest": 60,
+        "details": "Progressão de Carga",
+        "ilustration_url": "https://gymvisual.com/img/p/5/3/3/1/5331.gif"
+    },
+    {
+        "name": "Cadeira Adutora",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "20/15/10",
+        "rest": 30,
+        "details": "Progressão de Carga",
+        "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
+    }
+]
+    },
+    {
+      "name":"Treino B",
+      "description":"Superior",
+      "exercises":[
+    {
+        "name": "Barra Fixa no Graviton",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "8 a 12",
+        "rest": 45,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Remada Aberta Máquina",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "12/10/8",
+        "rest": 45,
+        "details": "Progressão de carga",
+        "ilustration_url": "https://gymvisual.com/img/p/2/3/4/4/9/23449.gif"
+    },
+    {
+        "name": "Pull Down Máquina ou Corda",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "8 a 12",
+        "rest": 45,
+        "details": "Tradicional",
+        "ilustration_url": "https://gymvisual.com/img/p/4/9/3/8/4938.gif"
+    },
+    {
+        "name": "Crucifixo Inverso no Fly",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 60,
+        "details": "Tradicional",
+        "ilustration_url": "https://gymvisual.com/img/p/5/3/3/9/5339.gif"
+    },
+    {
+        "name": "Rosca Direta + Remada Alta Polia",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 60,
+        "details": "12 de cada"
+    },
+    {
+        "name": "Rosca Scott + Elevação Lateral",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 10,
+        "rest": 60,
+        "details": "10 de cada"
+    }
+]
+    },
+    {
+      "name":"Treino C",
+      "description":"Posterior e Abdomen",
+      "exercises":[
+        {
+          "name":"Leg Press",
+          "group":"Quadriceps",
+          "series":1,
+          "repetitions":100,
+          "rest":0,
+          "details":"Pode ir fracionando"
+        },
+        {
+          "name":"Cadeira Flexora",
+          "group":"Posterior",
+          "series":3,
+          "repetitions":"20/15/10",
+          "rest":90,
+          "details":"Progressão de carga"
+        },
+        {
+          "name":"Stiff com a Barra",
+          "group":"Posterior",
+          "series":3,
+          "repetitions":"12 a 15",
+          "rest":90,
+          "details":"Slow"
+        },
+        {
+          "name":"Hiperextensão Lombar",
+          "group":"Costas",
+          "series":3,
+          "repetitions":12,
+          "rest":30,
+          "details":"Tradicional"
+        },
+        {
+          "name":"Mesa Flexisora",
+          "group":"Posterior",
+          "series":3,
+          "repetitions":10,
+          "rest":60,
+          "details":"Com pico de contração de 2\""
+        },
+        {
+          "name":"Cadeira Abdutora",
+          "group":"Quadriceps",
+          "series":3,
+          "repetitions":"20/15/10",
+          "rest":30,
+          "details":"Progressão de carga"
+        },
+        {
+          "name":"Abdominal Paralelas",
+          "group":"Abdomen",
+          "series":3,
+          "repetitions":15,
+          "rest":30,
+          "details":"Tradicional"
+        }
+      ]
+    },
+    {
+      "name":"Treino D",
+      "description":"Triceps",
+      "exercises":[
+        {
+          "name":"Supino Vertical",
+          "group":"Peitoral",
+          "series":4,
+          "repetitions":"8 a 12",
+          "rest":60,
+          "details":"Tradicional"
+        },
+        {
+          "name":"Peck Deck",
+          "group":"Peitoral",
+          "series":3,
+          "repetitions":"2010-12-15T02:00:00.000Z",
+          "rest":45,
+          "details":"Progressão de carga"
+        },
+        {
+          "name":"Triceps Testa na Polia",
+          "group":"Triceps",
+          "series":3,
+          "repetitions":"10 a 12",
+          "rest":60,
+          "details":"Slow"
+        },
+        {
+          "name":"Triceps Coice Unilateral",
+          "group":"Triceps",
+          "series":3,
+          "repetitions":10,
+          "rest":45,
+          "details":"Tradicional"
+        },
+        {
+          "name":"Triceps Pulley W",
+          "group":"Triceps",
+          "series":3,
+          "repetitions":15,
+          "rest":30,
+          "details":"Tradicional"
+        },
+        {
+          "name":"Bike ou Esteira + Abdominal",
+          "group":"Abdomen",
+          "series":4,
+          "repetitions":"-",
+          "rest":"-",
+          "details":"Circuito: 5 minutos de cardio + 50 abdominais"
+        }
+      ]
+    }
+  ]
+}
