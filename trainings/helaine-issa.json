@@ -5,7 +5,7 @@
   "trainings": [
     {
       "name": "Treino A",
-      "description": "Dorsais",
+      "description": "Quadriceps",
       "exercises": [
     {
         "name": "Leg Press 45",
@@ -58,9 +58,58 @@
 ]
     },
     {
-      "name": "Treino F",
-      "description": "Dorsais",
-      "exercises": []
+      "name": "Treino B",
+      "description": "Superior",
+      "exercises": [
+    {
+        "name": "Barra Fixa no Graviton",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "8 a 12",
+        "rest": 45,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Remada Aberta Máquina",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "2008-10-12T03:00:00.000Z",
+        "rest": 45,
+        "details": "Progressão de carga"
+    },
+    {
+        "name": "Pull Down Máquina ou Corda",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": "8 a 12",
+        "rest": 45,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Crucifixo Inverso no Fly",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 60,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Rosca Direta + Remada Alta Polia",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 60,
+        "details": "12 de cada"
+    },
+    {
+        "name": "Rosca Scott + Elevação Lateral",
+        "group": "Superior",
+        "series": 3,
+        "repetitions": 10,
+        "rest": 60,
+        "details": "10 de cada"
+    }
+]
     },
     {
       "name": "Treino F",
