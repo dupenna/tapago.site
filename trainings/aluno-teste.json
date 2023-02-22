@@ -1,0 +1,71 @@
+{
+  "name": "Eduardo Penna",
+  "birthdate": "1983-02-03",
+  "gender": "male",
+  "trainings": [
+    {
+      "name": "Treino A",
+      "description": "Dorsais",
+      "exercises": [
+    {
+        "name": "Leg Press 45",
+        "group": "Quadriceps",
+        "series": 4,
+        "repetitions": 15,
+        "rest": 60,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Agachamento Bulgaro",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "10 cada perna",
+        "rest": 60,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Cadeira Extensora + Unilateral + Bilateral",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "2012-12-12T02:00:00.000Z",
+        "rest": 60,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Agachamento Livre",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 60,
+        "details": "Slow"
+    },
+    {
+        "name": "Flexão Plantar Sentada",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": 20,
+        "rest": 60,
+        "details": "Progressão de Carga"
+    },
+    {
+        "name": "Cadeira Adutora",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "20/15/10",
+        "rest": 30,
+        "details": "Progressão de Carga"
+    }
+]
+    },
+    {
+      "name": "Treino F",
+      "description": "Dorsais",
+      "exercises": []
+    },
+    {
+      "name": "Treino F",
+      "description": "Dorsais",
+      "exercises": []
+    }
+  ]
+}
