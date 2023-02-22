@@ -172,6 +172,61 @@
         "details": "Tradicional"
     }
 ]
+    },
+      {
+      "name": "Treino D",
+      "description": "Triceps",
+      "exercises": [
+    {
+        "name": "Supino Vertical",
+        "group": "Peitoral",
+        "series": 4,
+        "repetitions": "8 a 12",
+        "rest": 60,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Peck Deck",
+        "group": "Peitoral",
+        "series": 3,
+        "repetitions": "2010-12-15T02:00:00.000Z",
+        "rest": 45,
+        "details": "Progressão de carga"
+    },
+    {
+        "name": "Triceps Testa na Polia",
+        "group": "Triceps",
+        "series": 3,
+        "repetitions": "10 a 12",
+        "rest": 60,
+        "details": "Slow"
+    },
+    {
+        "name": "Triceps Coice Unilateral",
+        "group": "Triceps",
+        "series": 3,
+        "repetitions": 10,
+        "rest": 45,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Triceps Pulley W",
+        "group": "Triceps",
+        "series": 3,
+        "repetitions": 15,
+        "rest": 30,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Bike ou Esteira + Abdominal",
+        "group": "Abdomen",
+        "series": 4,
+        "repetitions": "-",
+        "rest": "-",
+        "details": "Circuito: 5 minutos de cardio + 50 abdominais"
+    }
+]
+    {
     }
   ]
 }
