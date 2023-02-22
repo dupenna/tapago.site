@@ -14,7 +14,7 @@
         "repetitions": "15",
         "rest": 60,
         "details": "Tradicional",
-        "ilustrationurl": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
     },
     {
         "name": "Agachamento Bulgaro",
@@ -23,7 +23,7 @@
         "repetitions": "10",
         "rest": 60,
         "details": "Cada perna",
-        "ilustrationurl": "https://gymvisual.com/img/p/1/4/7/3/2/14732.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/1/4/7/3/2/14732.gif"
     },
     {
         "name": "Cadeira Extensora + Unilateral + Bilateral",
@@ -32,7 +32,7 @@
         "repetitions": "12",
         "rest": 60,
         "details": "12 bilateral, 12 unilateral, 12 bilateral",
-        "ilustrationurl": "https://gymvisual.com/img/p/7/0/3/8/7038.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/7/0/3/8/7038.gif"
     },
     {
         "name": "Agachamento Livre",
@@ -41,7 +41,7 @@
         "repetitions": "12",
         "rest": 60,
         "details": "Slow",
-        "ilustrationurl": "https://gymvisual.com/img/p/6/3/3/9/6339.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/6/3/3/9/6339.gif"
     },
     {
         "name": "Flexão Plantar Sentada",
@@ -50,7 +50,7 @@
         "repetitions": "20",
         "rest": 60,
         "details": "Progressão de Carga",
-        "ilustrationurl": "https://gymvisual.com/img/p/5/3/3/1/5331.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/5/3/3/1/5331.gif"
     },
     {
         "name": "Cadeira Adutora",
@@ -59,7 +59,7 @@
         "repetitions": "20/15/10",
         "rest": 30,
         "details": "Progressão de Carga",
-        "ilustrationurl": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
     }
 ]
     },
@@ -82,7 +82,7 @@
         "repetitions": "12/10/8",
         "rest": 45,
         "details": "Progressão de carga",
-        "ilustrationurl": "https://gymvisual.com/img/p/2/3/4/4/9/23449.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/2/3/4/4/9/23449.gif"
     },
     {
         "name": "Pull Down Máquina ou Corda",
@@ -91,7 +91,7 @@
         "repetitions": "8 a 12",
         "rest": 45,
         "details": "Tradicional",
-        "ilustrationurl": "https://gymvisual.com/img/p/4/9/3/8/4938.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/4/9/3/8/4938.gif"
     },
     {
         "name": "Crucifixo Inverso no Fly",
@@ -100,7 +100,7 @@
         "repetitions": 12,
         "rest": 60,
         "details": "Tradicional",
-        "ilustrationurl": "https://gymvisual.com/img/p/5/3/3/9/5339.gif"
+        "ilustration_url": "https://gymvisual.com/img/p/5/3/3/9/5339.gif"
     },
     {
         "name": "Rosca Direta + Remada Alta Polia",
