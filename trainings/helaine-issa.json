@@ -73,7 +73,7 @@
         "name": "Remada Aberta Máquina",
         "group": "Superior",
         "series": 3,
-        "repetitions": "2008-10-12T03:00:00.000Z",
+        "repetitions": "12/10/8",
         "rest": 45,
         "details": "Progressão de carga"
     },
@@ -112,9 +112,66 @@
 ]
     },
     {
-      "name": "Treino F",
-      "description": "Dorsais",
-      "exercises": []
+      "name": "Treino C",
+      "description": "Posterior e Abdomen",
+      "exercises": [
+    {
+        "name": "Leg Press",
+        "group": "Quadriceps",
+        "series": 1,
+        "repetitions": 100,
+        "rest": 0,
+        "details": "Pode ir fracionando"
+    },
+    {
+        "name": "Cadeira Flexora",
+        "group": "Posterior",
+        "series": 3,
+        "repetitions": "20/15/10",
+        "rest": 90,
+        "details": "Progressão de carga"
+    },
+    {
+        "name": "Stiff com a Barra",
+        "group": "Posterior",
+        "series": 3,
+        "repetitions": "12 a 15",
+        "rest": 90,
+        "details": "Slow"
+    },
+    {
+        "name": "Hiperextensão Lombar",
+        "group": "Costas",
+        "series": 3,
+        "repetitions": 12,
+        "rest": 30,
+        "details": "Tradicional"
+    },
+    {
+        "name": "Mesa Flexisora",
+        "group": "Posterior",
+        "series": 3,
+        "repetitions": 10,
+        "rest": 60,
+        "details": "Com pico de contração de 2\""
+    },
+    {
+        "name": "Cadeira Abdutora",
+        "group": "Quadriceps",
+        "series": 3,
+        "repetitions": "20/15/10",
+        "rest": 30,
+        "details": "Progressão de carga"
+    },
+    {
+        "name": "Abdominal Paralelas",
+        "group": "Abdomen",
+        "series": 3,
+        "repetitions": 15,
+        "rest": 30,
+        "details": "Tradicional"
+    }
+]
     }
   ]
 }
