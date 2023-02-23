@@ -100,7 +100,8 @@
           "series": 4,
           "repetitions": "20/15/12/10",
           "rest": 60,
-          "details": "Progressão de carga"
+          "details": "Progressão de carga",
+          "ilustration_url": "https://www.youtube.com/watch?v=lAnqN0J_p5A" 
         },
         {
           "name": "Sumo no Step",
@@ -108,7 +109,8 @@
           "series": 4,
           "repetitions": "20/15/12/10",
           "rest": 60,
-          "details": "Progressão de carga"
+          "details": "Progressão de carga",
+          "ilustration_url": "https://www.youtube.com/watch?v=MsxLG_ZEoOQ" 
         },
         {
           "name": "Flexora em Pé",
@@ -132,21 +134,24 @@
           "series": 4,
           "repetitions": "20/15/12/10",
           "rest": 60,
-          "details": "Progressão de carga"
+          "details": "Progressão de carga",
+          "ilustration_url": "https://www.youtube.com/watch?v=3BWiLFc8Dbg" 
         },
         {
           "name": "Cadeira Abdutora",
           "group": "Abdutores",
           "series": 4,
           "repetitions": 50,
-          "rest": 60
+          "rest": 60,
+          "ilustration_url": "https://www.youtube.com/watch?v=7pbZA7ncuq8" 
         },
         {
           "name": "Supra Solo",
           "group": "Abdome",
           "series": 4,
           "rest": 60,
-          "details": "Anilha de 10K"
+          "details": "Anilha de 10K",
+          "ilustration_url": "https://www.youtube.com/watch?v=6kHg3JAFNFo" 
         }
       ]
     },
