@@ -1,7 +1,7 @@
 {
   "name": "Helaine Issa",
-  "birthdate": "1983-02-03",
   "gender": "female",
+  "orientations": "teste",
   "trainings": [
     {
       "name": "Treino A",
