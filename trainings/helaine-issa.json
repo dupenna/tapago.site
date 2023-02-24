@@ -104,34 +104,20 @@
         "ilustration_url": "https://gymvisual.com/img/p/5/3/3/9/5339.gif"
     },
     {
-        "name": "Rosca Direta",
+        "name": "Rosca Direta + Remada Alta Polia",
         "group": "Superior",
         "series": 3,
         "repetitions": 12,
         "rest": 60,
-        "biset": true
+        "details": "12 de cada"
     },
     {
-        "name": "Remada Alta Polia",
-        "group": "Superior",
-        "series": 3,
-        "repetitions": 12,
-        "rest": 60,
-    },
-    {
-        "name": "Rosca Scott",
+        "name": "Rosca Scott + Elevação Lateral",
         "group": "Superior",
         "series": 3,
         "repetitions": 10,
         "rest": 60,
-        "biset": true
-    },
-    {
-        "name": "Elevação Lateral",
-        "group": "Superior",
-        "series": 3,
-        "repetitions": 10,
-        "rest": 60
+        "details": "10 de cada"
     }
 ]
     },
