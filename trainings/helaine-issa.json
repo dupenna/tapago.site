@@ -5,11 +5,11 @@
   "trainings":[
     {
       "name":"Treino A",
-      "description":"Quadriceps",
+      "description":"Quadríceps",
       "exercises":[
     {
         "name": "Leg Press 45",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 4,
         "repetitions": "15",
         "rest": 60,
@@ -18,7 +18,7 @@
     },
     {
         "name": "Agachamento Bulgaro",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 3,
         "repetitions": "10",
         "rest": 60,
@@ -27,7 +27,7 @@
     },
     {
         "name": "Cadeira Extensora + Unilateral + Bilateral",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 3,
         "repetitions": "12",
         "rest": 60,
@@ -36,7 +36,7 @@
     },
     {
         "name": "Agachamento Livre",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 3,
         "repetitions": "12",
         "rest": 60,
@@ -45,7 +45,7 @@
     },
     {
         "name": "Flexão Plantar Sentada",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 3,
         "repetitions": "20",
         "rest": 60,
@@ -54,7 +54,7 @@
     },
     {
         "name": "Cadeira Adutora",
-        "group": "Quadriceps",
+        "group": "Quadríceps",
         "series": 3,
         "repetitions": "20/15/10",
         "rest": 30,
@@ -73,7 +73,8 @@
         "series": 3,
         "repetitions": "8 a 12",
         "rest": 45,
-        "details": "Tradicional"
+        "details": "Tradicional",
+        "ilustration_url": "https://gymvisual.com/img/p/4/7/4/8/4748.gif"
     },
     {
         "name": "Remada Aberta Máquina",
@@ -126,7 +127,7 @@
       "exercises":[
         {
           "name":"Leg Press",
-          "group":"Quadriceps",
+          "group":"Quadríceps",
           "series":1,
           "repetitions":100,
           "rest":0,
@@ -166,7 +167,7 @@
         },
         {
           "name":"Cadeira Abdutora",
-          "group":"Quadriceps",
+          "group":"Quadríceps",
           "series":3,
           "repetitions":"20/15/10",
           "rest":30,
@@ -184,7 +185,7 @@
     },
     {
       "name":"Treino D",
-      "description":"Triceps",
+      "description":"Tríceps",
       "exercises":[
         {
           "name":"Supino Vertical",
@@ -203,24 +204,24 @@
           "details":"Progressão de carga"
         },
         {
-          "name":"Triceps Testa na Polia",
-          "group":"Triceps",
+          "name":"Tríceps Testa na Polia",
+          "group":"Tríceps",
           "series":3,
           "repetitions":"10 a 12",
           "rest":60,
           "details":"Slow"
         },
         {
-          "name":"Triceps Coice Unilateral",
-          "group":"Triceps",
+          "name":"Tríceps Coice Unilateral",
+          "group":"Tríceps",
           "series":3,
           "repetitions":10,
           "rest":45,
           "details":"Tradicional"
         },
         {
-          "name":"Triceps Pulley W",
-          "group":"Triceps",
+          "name":"Tríceps Pulley W",
+          "group":"Tríceps",
           "series":3,
           "repetitions":15,
           "rest":30,
