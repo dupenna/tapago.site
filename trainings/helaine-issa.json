@@ -108,14 +108,16 @@
           "series": 3,
           "repetitions": 12,
           "rest": 60,
-          "biset": true
+          "biset": true,
+          "ilustration_url": "https://gymvisual.com/img/p/2/2/6/4/6/22646.gif"
         },
         {
           "name": "Remada Alta Polia",
           "group": "Superior",
           "series": 3,
           "repetitions": 12,
-          "rest": 60
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/2/4/9/3/6/24936.gif"
         },
         {
           "name": "Rosca Scott",
@@ -123,14 +125,16 @@
           "series": 3,
           "repetitions": 10,
           "rest": 60,
-          "biset": true
+          "biset": true,
+          "ilustration_url": "https://gymvisual.com/img/p/4/8/0/1/4801.gif"
         },
         {
           "name": "Elevação Lateral",
           "group": "Superior",
           "series": 3,
           "repetitions": 10,
-          "rest": 60
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/1/9/1/5/1/19151.gif"
         }
       ]
     },
