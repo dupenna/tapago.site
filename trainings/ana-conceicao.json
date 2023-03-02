@@ -1,0 +1,83 @@
+{
+  "name": "Ana Paula da Conceição",
+  "birthdate": "1984-11-14",
+  "gender": "female",
+  "trainings": [
+    {
+      "name": "Treino A",
+      "description": "Costas + Ombros",
+      "exercises": [
+        {
+          "name": "Elevação Lateral",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "15",
+          "rest": 40,
+          "biset": true
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 40,
+          "details": "Progredir carga com as séries"
+        }
+      ]
+    },
+    {
+      "name": "Treino B",
+      "description": "Pernas e Abdome",
+      "exercises": [
+        {
+          "name": "Elevação Lateral",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "15",
+          "rest": 40
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 40,
+          "details": "Progredir carga com as séries",
+          "biset": true
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 40,
+          "details": "Progredir carga com as séries"
+        },
+        {
+          "name": "Elevação Lateral",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "15",
+          "rest": 40,
+          "triset": true
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 40,
+          "details": "Progredir carga com as séries"
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Ombros",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 40,
+          "details": "Progredir carga com as séries"
+        }
+      ]
+    }
+  ]
+}

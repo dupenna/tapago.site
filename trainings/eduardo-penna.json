@@ -1,0 +1,459 @@
+{
+  "name": "Eduardo Penna",
+  "birthdate": "1983-02-03",
+  "gender": "male",
+  "trainings": [
+    {
+      "name": "Treino A",
+      "description": "Peito + Tríceps",
+      "exercises": [
+        {
+            "name": "Supino Inclinado",
+            "group": "Peitoral",
+            "series": 5,
+            "repetitions": "20/15/12/10/8",
+            "rest": 60,
+            "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/2/1/8/8/8/21888.gif" 
+        },
+        {
+            "name": "Supino Reto",
+            "group": "Peitoral",
+            "series": 5,
+            "repetitions": "20/15/12/10/8",
+            "rest": 60,
+            "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/2/1/8/8/9/21889.gif" 
+        },
+        {
+            "name": "Cruxifixo Inclinado",
+            "group": "Peitoral",
+            "series": 4,
+            "repetitions": "15 a 20",
+            "rest": 60,
+            "details": "Carga moderada",
+            "ilustration_url": "https://gymvisual.com/img/p/1/0/2/8/1/10281.gif" 
+        },
+        {
+            "name": "Cross Over",
+            "group": "Peitoral",
+            "series": 5,
+            "repetitions": 20,
+            "rest": 60,
+            "details": "Se possível, progredir carga",
+            "ilustration_url": "https://gymvisual.com/img/p/2/4/7/6/0/24760.gif" 
+        },
+        {
+            "name": "Voador",
+            "group": "Peitoral",
+            "series": 5,
+            "repetitions": 20,
+            "rest": 60,
+            "details": "Se possível, progredir carga",
+            "ilustration_url": "https://gymvisual.com/img/p/5/3/3/3/5333.gif" 
+        },
+        {
+            "name": "Tríceps Corda",
+            "group": "Tríceps",
+            "series": 4,
+            "repetitions": "30/25/20/15",
+            "rest": 60,
+            "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/4/9/3/3/4933.gif" 
+        },
+        {
+            "name": "Tríceps Barra",
+            "group": "Tríceps",
+            "series": 4,
+            "repetitions": "30/25/20/15",
+            "rest": 60,
+            "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/2/7/6/2/8/27628.gif" 
+        },
+        {
+            "name": "Paralela Banco",
+            "group": "Tríceps",
+            "series": 4,
+            "repetitions": "30/25/20/15",
+            "rest": 60,
+            "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/6/3/5/8/6358.gif" 
+        },
+        {
+            "name": "Panturrilha Sentada",
+            "group": "Panturrilha",
+            "series": 4,
+            "repetitions": "15 + 15",
+            "rest": 60,
+            "details": "15 segurando 3 segundos + 15 rápidas",
+            "ilustration_url": "https://gymvisual.com/img/p/1/2/5/8/0/12580.gif" 
+        }
+    ]
+    },
+    {
+      "name": "Treino B",
+      "description": "Glúteo + Femorais",
+      "exercises": [
+        {
+          "name": "Elevação Pélvica",
+          "group": "Glúteos",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/2/5/6/3/12563.gif" 
+        },
+        {
+          "name": "Sumo no Step",
+          "group": "Quadríceps",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/4/6/0/5/14605.gif" 
+        },
+        {
+          "name": "Flexora em Pé",
+          "group": "Isquiotibiais",
+          "series": 4,
+          "repetitions": 30,
+          "rest": 60,
+          "details": "15 cada perna, progredindo carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/1/6/1/3/21613.gif"
+        },
+        {
+          "name": "Mesa Flexoras",
+          "group": "Isquiotibiais",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/3/0/9/5/13095.gif"
+        },
+        {
+          "name": "Cadeira Flexora",
+          "group": "Isquiotibiais",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif" 
+        },
+        {
+          "name": "Cadeira Abdutora",
+          "group": "Abdutores",
+          "series": 4,
+          "repetitions": 50,
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/1/2/7/1/4/12714.gif" 
+        },
+        {
+          "name": "Supra Solo",
+          "group": "Abdome",
+          "series": 4,
+          "rest": 60,
+          "details": "Anilha de 10K",
+          "ilustration_url": "https://gymvisual.com/img/p/5/5/5/4/5554.gif" 
+        }
+      ]
+    },
+    {
+      "name": "Treino C",
+      "description": "Dorsais + Bíceps",
+      "exercises": [
+        {
+          "name": "Barra Livre",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": "máximo",
+          "rest": 60,
+          "details": "Até a falha",
+          "ilustration_url": "https://gymvisual.com/img/p/6/6/9/0/6690.gif" 
+        },
+        {
+          "name": "Graviton",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": 15,
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/4/7/4/8/4748.gif" 
+        },
+        {
+          "name": "Remada Curvada",
+          "group": "Dorsal",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/0/6/1/7/10617.gif" 
+        },
+        {
+          "name": "Remada Articulada Neutro",
+          "group": "Dorsal",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/3/4/4/3/23443.gif" 
+        },
+        {
+          "name": "Puxador Aberto",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/4/9/3/8/4938.gif" 
+        },
+        {
+          "name": "Rosca Direta",
+          "group": "Bíceps",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/2/6/4/6/22646.gif" 
+        },
+        {
+          "name": "Rosca Alternada",
+          "group": "Bíceps",
+          "series": 4,
+          "repetitions": 30,
+          "rest": 60,
+          "details": "15 cada braço",
+          "ilustration_url": "https://gymvisual.com/img/p/7/2/6/1/7261.gif" 
+        },
+        {
+          "name": "Rosca Scott Barra W",
+          "group": "Bíceps",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/2/2/3/3/12233.gif" 
+        },
+        {
+          "name": "Paturrilha Em Pé",
+          "group": "Panturrilha",
+          "series": 4,
+          "repetitions": "15 + 15",
+          "rest": 60,
+          "details": "15 segurando 3 segundos + 15 rápidas",
+          "ilustration_url": "https://gymvisual.com/img/p/5/3/4/2/5342.gif" 
+        }
+      ]
+    },
+    {
+      "name": "Treino D",
+      "description": "Deltóides + Trapézio",
+      "exercises": [
+        {
+          "name": "Elevação Lateral",
+          "group": "Deltóide",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/9/1/5/1/19151.gif" 
+        },
+        {
+          "name": "Desenvolvimento Máquina",
+          "group": "Deltóide",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/6/3/6/1/6361.gif" 
+        },
+        {
+          "name": "Elevação Frontal Barra",
+          "group": "Deltóide",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/4/7/7/2/4772.gif" 
+        },
+        {
+          "name": "Remada Alta Barra",
+          "group": "Deltóide",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/4/7/9/0/24790.gif" 
+        },
+        {
+          "name": "Desenvolvimento no Smith",
+          "group": "Deltóide",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/5/4/8/9/5489.gif" 
+        },
+        {
+          "name": "Voador Inverso Polia",
+          "group": "Deltóide",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/4/9/5/8/4958.gif" 
+        },
+        {
+          "name": "Encolhimento Halter",
+          "group": "Trapézio",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "details": "Carga máxima",
+          "ilustration_url": "https://gymvisual.com/img/p/1/0/0/7/3/10073.gif" 
+        },
+        {
+          "name": "Abdominal Infra Cavalete",
+          "group": "Abdome",
+          "series": 4,
+          "repetitions": 30,
+          "rest": 60,
+          "details": "Pernas esticadas",
+          "ilustration_url": "https://gymvisual.com/img/p/7/6/3/4/7634.gif" 
+        }
+      ]
+    },
+    {
+      "name": "Treino E",
+      "description": "Quadríceps",
+      "exercises": [
+        {
+          "name": "Extensora",
+          "group": "Quadríceps",
+          "series": 6,
+          "repetitions": "20/15/12/10/8/6",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/5/3/2/2/5322.gif" 
+        },
+        {
+          "name": "Agachamento Livre",
+          "group": "Quadríceps",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/1/6/2/8/21628.gif" 
+        },
+        {
+          "name": "Leg Press 45°",
+          "group": "Quadríceps",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif" 
+        },
+        {
+          "name": "Agachamento Hack",
+          "group": "Quadríceps",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/4/3/2/6/24326.gif" 
+        },
+        {
+          "name": "Passada Com Barra",
+          "group": "Quadríceps",
+          "series": 3,
+          "repetitions": 30,
+          "rest": 60,
+          "details": "Barra de 20Kg",
+          "ilustration_url": "https://gymvisual.com/img/p/2/9/2/8/6/29286.gif" 
+        },
+        {
+          "name": "Adutora",
+          "group": "Adutores",
+          "series": 4,
+          "repetitions": 30,
+          "rest": 60,
+          "details": "3 segundos de isometria",
+          "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif" 
+        },
+        {
+          "name": "Panturrilha Sentada",
+          "group": "Panturrilha",
+          "series": 4,
+          "repetitions": "15 + 15",
+          "rest": 60,
+          "details": "15 segurando 3 segundos + 15 rápidas",
+            "ilustration_url": "https://gymvisual.com/img/p/1/2/5/8/0/12580.gif" 
+        }
+     ]
+    },
+    {
+      "name": "Treino F",
+      "description": "Dorsais",
+      "exercises": [
+        {
+          "name": "Pulldow",
+          "group": "Dorsal",
+          "series": 5,
+          "repetitions": "20/18/16/14/12",
+          "rest": 60,
+          "details": "Progressão de carga",
+            "ilustration_url": "https://gymvisual.com/img/p/4/9/7/1/4971.gif" 
+        },
+        {
+          "name": "Extensão Lombar",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/2/0/8/2/5/20825.gif" 
+        },
+        {
+          "name": "Meio Terra",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": "20/15/12/10",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/2/6/5/0/2/26502.gif" 
+        },
+        {
+          "name": "Remada Curvada",
+          "group": "Dorsal",
+          "series": 5,
+          "repetitions": "20/15/12/10/8",
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/1/0/6/1/7/10617.gif" 
+        },
+        {
+          "name": "Remada Baixa",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": 20,
+          "rest": 60,
+          "details": "Progressão de carga",
+          "ilustration_url": "https://gymvisual.com/img/p/7/3/2/7/7327.gif" 
+        },
+        {
+          "name": "Serrote",
+          "group": "Dorsal",
+          "series": 4,
+          "repetitions": 15,
+          "rest": 60,
+          "details": "Cada braço",
+          "ilustration_url": "https://gymvisual.com/img/p/5/0/2/5/5025.gif" 
+        },
+        {
+          "name": "Abdominal Infra na Barra Livre",
+          "group": "Abdome",
+          "series": 4,
+          "repetitions": "20 a 30",
+          "rest": 60,
+          "ilustration_url": "https://gymvisual.com/img/p/1/4/8/3/0/14830.gif"
+        }
+      ]
+    }
+  ]
+}
