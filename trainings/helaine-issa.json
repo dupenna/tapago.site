@@ -1,10 +1,11 @@
 {
   "name": "Helaine Issa",
   "gender": "female",
+  "orientations": "Semana 1: Manter prescrição\nSemana 2: 4 séries para membros inferiores\nSemana 3: aumento de carga\nSemana 4: Igual semana 1\nSemana 5: Igual semana 2",
   "trainings": [
     {
       "name": "Treino A",
-      "description": "Pernas",
+      "description": "Quadríceps",
       "exercises": [
         {
           "name": "Leg Press 45",
@@ -44,7 +45,7 @@
         },
         {
           "name": "Flexão Plantar Sentada",
-          "group": "Panturrilha",
+          "group": "Quadríceps",
           "series": 3,
           "repetitions": "20",
           "rest": 60,
@@ -53,7 +54,7 @@
         },
         {
           "name": "Cadeira Adutora",
-          "group": "Adutores",
+          "group": "Quadríceps",
           "series": 3,
           "repetitions": "20/15/10",
           "rest": 30,
@@ -64,11 +65,11 @@
     },
     {
       "name": "Treino B",
-      "description": "Membros Superiores",
+      "description": "Superior",
       "exercises": [
         {
           "name": "Barra Fixa no Graviton",
-          "group": "Dorsais",
+          "group": "Superior",
           "series": 3,
           "repetitions": "8 a 12",
           "rest": 45,
@@ -77,7 +78,7 @@
         },
         {
           "name": "Remada Aberta Máquina",
-          "group": "Dorsais",
+          "group": "Superior",
           "series": 3,
           "repetitions": "12/10/8",
           "rest": 45,
@@ -86,7 +87,7 @@
         },
         {
           "name": "Pull Down Máquina ou Corda",
-          "group": "Dorsais",
+          "group": "Superior",
           "series": 3,
           "repetitions": "8 a 12",
           "rest": 45,
@@ -95,7 +96,7 @@
         },
         {
           "name": "Crucifixo Inverso no Fly",
-          "group": "Dorsais",
+          "group": "Superior",
           "series": 3,
           "repetitions": 12,
           "rest": 60,
@@ -104,7 +105,7 @@
         },
         {
           "name": "Rosca Direta",
-          "group": "Bíceps",
+          "group": "Superior",
           "series": 3,
           "repetitions": 12,
           "rest": 60,
@@ -113,7 +114,7 @@
         },
         {
           "name": "Remada Alta Polia",
-          "group": "Deltóides",
+          "group": "Superior",
           "series": 3,
           "repetitions": 12,
           "rest": 60,
@@ -121,7 +122,7 @@
         },
         {
           "name": "Rosca Scott",
-          "group": "Bíceps",
+          "group": "Superior",
           "series": 3,
           "repetitions": 10,
           "rest": 60,
@@ -130,7 +131,7 @@
         },
         {
           "name": "Elevação Lateral",
-          "group": "Deltóides",
+          "group": "Superior",
           "series": 3,
           "repetitions": 10,
           "rest": 60,
@@ -140,7 +141,7 @@
     },
     {
       "name": "Treino C",
-      "description": "Pernas",
+      "description": "Posterior e Abdomen",
       "exercises": [
         {
           "name": "Leg Press",
@@ -171,7 +172,7 @@
         },
         {
           "name": "Hiperextensão Lombar",
-          "group": "Lombar",
+          "group": "Costas",
           "series": 3,
           "repetitions": 12,
           "rest": 30,
@@ -189,7 +190,7 @@
         },
         {
           "name": "Cadeira Abdutora",
-          "group": "Abdutores",
+          "group": "Quadríceps",
           "series": 3,
           "repetitions": "20/15/10",
           "rest": 30,
@@ -198,7 +199,7 @@
         },
         {
           "name": "Abdominal Paralelas",
-          "group": "Abdome",
+          "group": "Abdomen",
           "series": 3,
           "repetitions": 15,
           "rest": 30,
@@ -209,7 +210,7 @@
     },
     {
       "name": "Treino D",
-      "description": "Peitoral + Tríceps",
+      "description": "Tríceps",
       "exercises": [
         {
           "name": "Supino Vertical",
