@@ -5,7 +5,7 @@
   "trainings": [
     {
       "name": "Treino A",
-      "description": "Membros Superiores",
+      "description": "Membros Inferiores",
       "exercises": [
         {
             "name": "Leg Press Horizontal",
@@ -172,7 +172,7 @@
     },
     {
       "name": "Treino C",
-      "description": "Pernas",
+      "description": "Membros Inferiores",
       "exercises": [
         {
             "name": "Cadeira Abdutora",
@@ -239,7 +239,7 @@
     },
     {
       "name": "Treino D",
-      "description": "Peitoral + Tríceps",
+      "description": "Membros Superiores",
       "exercises": [
         {
             "name": "Supino Reto Barra ou Halteres",
