@@ -1,0 +1,287 @@
+{
+  "name": "Matheus Baptista",
+  "gender": "male",
+  "trainings": [
+    {
+      "name": "Treino A",
+      "description": "Costas + Ombros + Bíceps",
+      "exercises": [
+        {
+            "name": "Remada Aberta",
+            "group": "Costas",
+            "series": 4,
+            "repetitions": "10",
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/2/3/4/4/9/23449.gif"
+        },
+        {
+            "name": "Crucifixo Invertido",
+            "group": "Ombros",
+            "series": 3,
+            "repetitions": 10,
+            "rest": 90,
+            "ilustration_url": "https://gymvisual.com/img/p/5/1/2/4/5124.gif"
+        },
+        {
+            "name": "Elevação Frontal",
+            "group": "Ombros",
+            "series": 3,
+            "repetitions": "6 + 8",
+            "rest": 120,
+            "details": "Realizar 6 repetições e logo em seguida diminuir a carga para poder realizar mais 8",
+            "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/0/24940.gif"
+        },
+        {
+            "name": "Puxada Supinada",
+            "group": "Costas",
+            "series": 3,
+            "repetitions": "10",
+            "rest": 60,
+            "ilustration_url": "https://gymvisual.com/img/p/4/9/7/8/4978.gif"
+        },
+        {
+            "name": "Rosca Scott",
+            "group": "Bíceps",
+            "series": 3,
+            "repetitions": "6 + 8",
+            "rest": 120,
+            "details": "Realizar 6 repetições e logo em seguida diminuir a carga para poder realizar mais 8",
+            "ilustration_url": "https://gymvisual.com/img/p/4/8/0/1/4801.gif"
+        },
+        {
+            "name": "Rosca Direta Barra W",
+            "group": "Bíceps",
+            "series": 3,
+            "repetitions": "7 + 7 + 7",
+            "rest": 60,
+            "details": "7 curtas (início do movimento até o meio), 7 curtas (final do movimento até o meio) e 7 completas",
+            "ilustration_url": "https://gymvisual.com/img/p/5/9/1/4/5914.gif"
+        },
+        {
+            "name": "Rosca Halter Sentado",
+            "group": "Bíceps",
+            "series": 3,
+            "repetitions": 12,
+            "rest": 60,
+            "details": "3 com o braço direito + 3 repetições com o braço esquerdo (2x)",
+            "ilustration_url": "https://gymvisual.com/img/p/7/2/9/0/7290.gif"
+        }
+      ]
+    },
+    {
+      "name": "Treino B",
+      "description": "Peitoral + Ombros",
+      "exercises": [
+        {
+            "name": "Cruxifixo na Máquina",
+            "group": "Peitoral",
+            "series": 3,
+            "repetitions": "10",
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/5/3/3/3/5333.gif"
+        },
+        {
+            "name": "Supino Reto",
+            "group": "Peitoral",
+            "series": 3,
+            "repetitions": 8,
+            "rest": 0,
+            "ilustration_url": "https://gymvisual.com/img/p/2/1/8/8/9/21889.gif",
+            "biset": true
+        },
+        {
+            "name": "Flexão Sob Step",
+            "group": "Peitoral",
+            "series": 3,
+            "repetitions": 8,
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/5/2/3/2/5232.gif"
+        },
+        {
+            "name": "Supino Inclinado Halter",
+            "group": "Peitoral",
+            "series": 3,
+            "repetitions": 12,
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/2/0/8/2/3/20823.gif"
+        },
+        {
+            "name": "Desenvolvimento Halter",
+            "group": "Ombros",
+            "series": 3,
+            "repetitions": "8 + 10",
+            "rest": 60,
+            "details": "8 repetições, descansar 5 segundos e realizar mais 10 logo em seguida",
+            "ilustration_url": "https://gymvisual.com/img/p/5/1/4/6/5146.gif"
+        },
+        {
+            "name": "Elevação Frontal Halter",
+            "group": "Ombros",
+            "series": 4,
+            "repetitions": 10,
+            "rest": 120,
+            "details": "Simultâneo (2 braços juntos)",
+            "ilustration_url": "https://gymvisual.com/img/p/5/0/7/6/5076.gif"
+        },
+        {
+            "name": "Elevação Posterior",
+            "group": "Ombros",
+            "series": 3,
+            "repetitions": 10,
+            "ilustration_url": "https://gymvisual.com/img/p/2/0/7/4/4/20744.gif",
+            "biset": true
+        },
+        {
+            "name": "Elevação Posterior Unilateral",
+            "group": "Ombros",
+            "series": 3,
+            "repetitions": "12 + 12",
+            "rest": 120,
+            "details": "12 repetições com braço direito + 12 repetições com braço esquerdo",
+            "ilustration_url": "https://gymvisual.com/img/p/2/0/7/4/4/20744.gif"
+        }
+      ]
+    },
+    {
+      "name": "Treino C",
+      "description": "Pernas",
+      "exercises": [
+        {
+            "name": "Leg Press 45",
+            "group": "Quadríceps",
+            "series": 4,
+            "repetitions": "10",
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
+        },
+        {
+            "name": "Leg Press Unilateral",
+            "group": "Quadríceps",
+            "series": 4,
+            "repetitions": "8 + 8",
+            "rest": 60,
+            "details": "8 repetições com perna direita + 8 repetições com perna esquerda",
+            "ilustration_url": "https://gymvisual.com/img/p/6/6/8/6/6686.gif"
+        },
+        {
+            "name": "Afundo Smith",
+            "group": "Quadríceps",
+            "series": 4,
+            "repetitions": "10 + 10",
+            "rest": 120,
+            "details": "8 repetições com perna direita + 8 repetições com perna esquerda",
+            "ilustration_url": "https://gymvisual.com/img/p/1/0/2/8/2/10282.gif"
+        },
+        {
+            "name": "Cadeira Extensora",
+            "group": "Quadríceps",
+            "series": 4,
+            "repetitions": 10,
+            "rest": 60,
+            "ilustration_url": "https://gymvisual.com/img/p/5/3/2/2/5322.gif"
+        },
+        {
+            "name": "Mesa Flexora",
+            "group": "Posteriores",
+            "series": 3,
+            "repetitions": "8 + 10",
+            "rest": 120,
+            "details": "8 repetições, diminuir a carga + 10 repetições",
+            "ilustration_url": "https://gymvisual.com/img/p/1/3/0/9/5/13095.gif"
+        },
+        {
+            "name": "Gêmeos Leg Press",
+            "group": "Panturrilhas",
+            "series": 3,
+            "repetitions": 20,
+            "rest": 120,
+            "ilustration_url": "https://gymvisual.com/img/p/6/6/5/4/6654.gif"
+        },
+        {
+            "name": "Cadeira Adutora",
+            "group": "Adutores",
+            "series": 3,
+            "repetitions": "10 + 12",
+            "rest": 45,
+            "details": "10 repetições, diminuir a carga + 12 repetições",
+            "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
+        },
+        {
+            "name": "Cadeira Abdutora",
+            "group": "Abdutores",
+            "series": 4,
+            "repetitions": 15,
+            "rest": 45,
+            "ilustration_url": "https://gymvisual.com/img/p/1/2/7/1/4/12714.gif"
+        }
+      ]
+    },
+    {
+      "name": "Treino D",
+      "description": "Tríceps + Abdome",
+      "exercises": [
+        {
+            "name": "Tríceps Testa Cross",
+            "group": "Tríceps",
+            "series": 3,
+            "repetitions": "12",
+            "rest": 0,
+            "ilustration_url": "https://gymvisual.com/img/p/9/7/2/6/9726.gif",
+            "biset": true
+        },
+        {
+            "name": "Tríceps Cross",
+            "group": "Tríceps",
+            "series": 3,
+            "repetitions": "8 + 10",
+            "rest": 60,
+            "details": "8 repetições, diminuir a carga + 10 repetições",
+            "ilustration_url": "https://gymvisual.com/img/p/2/7/6/2/8/27628.gif"
+        },
+        {
+            "name": "Tríceps Francês",
+            "group": "Tríceps",
+            "series": 3,
+            "repetitions": 10,
+            "rest": 45,
+            "details": "Repetições lentas",
+            "ilustration_url": "https://gymvisual.com/img/p/2/4/4/5/6/24456.gif"
+        },
+        {
+            "name": "Tríceps Coice Polia",
+            "group": "Tríceps",
+            "series": 3,
+            "repetitions": "10 + 10",
+            "details": "10 com o braço direito + 3 repetições com o braço esquerdo. Pode ser realizado com halter.",
+            "ilustration_url": "https://gymvisual.com/img/p/7/5/4/3/7543.gif"
+        },
+        {
+            "name": "Abdominal Supra",
+            "group": "Abdome",
+            "series": 4,
+            "repetitions": 20,
+            "rest": 60,
+            "details": "Realizar movimento curto",
+            "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
+        },
+        {
+            "name": "Abdominal Oblíquo",
+            "group": "Abdome",
+            "series": 3,
+            "repetitions": "15 + 15",
+            "rest": 60,
+            "details": "15 repetições lado direito + 15 repetições lado esquerdo. Realizar as repetições com carga.",
+            "ilustration_url": "https://gymvisual.com/img/p/2/2/9/7/7/22977.gif"
+        },
+        {
+            "name": "Abadominal Total",
+            "group": "Abdome",
+            "series": 3,
+            "repetitions": 20,
+            "rest": 60,
+            "ilustration_url": "https://gymvisual.com/img/p/4/7/3/1/4731.gif"
+        }
+      ]
+    }
+  ]
+}
