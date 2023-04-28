@@ -1,11 +1,11 @@
 {
   "name": "Ana Claudia Braun",
-  "gender": "male",
+  "gender": "female",
   "orientations": "Semana 1: Manter prescrição\nSemana 2: Aumento de 1 série nos exercícios de inferiores\nSemana 3: aumento de carga geral + Idem semana 1\nSemana 4: Idem semana 2\nSemana 5: Idem semana 3",
   "trainings": [
     {
       "name": "Treino A",
-      "description": "Membros Inferiores",
+      "description": "Membros Superiores",
       "exercises": [
         {
             "name": "Leg Press Horizontal",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Treino B",
-      "description": "Membros Superiores",
+      "description": "Membros Inferiores",
       "exercises": [
         {
             "name": "Remada Baixa Triângulo",
@@ -172,7 +172,7 @@
     },
     {
       "name": "Treino C",
-      "description": "Membros Inferiores",
+      "description": "Membros Superiores",
       "exercises": [
         {
             "name": "Cadeira Abdutora",
@@ -234,81 +234,6 @@
             "rest": 30,
             "details": "Tradicional",
             "ilustration_url": "https://gymvisual.com/img/p/5/9/0/7/5907.gif"
-        }
-      ]
-    },
-    {
-      "name": "Treino D",
-      "description": "Membros Superiores",
-      "exercises": [
-        {
-            "name": "Supino Reto Barra ou Halteres",
-            "group": "Peitoral",
-            "series": 3,
-            "repetitions": "10",
-            "rest": 45,
-            "details": "Tradicional",
-            "ilustration_url": "https://gymvisual.com/img/p/2/1/8/8/9/21889.gif"
-        },
-        {
-            "name": "Desenvolvimento Sentado",
-            "group": "Tríceps",
-            "series": 3,
-            "repetitions": 10,
-            "rest": 0,
-            "ilustration_url": "https://gymvisual.com/img/p/5/1/4/6/5146.gif",
-            "biset": true
-        },
-        {
-            "name": "Elevação Frontal em Pé",
-            "group": "Tríceps",
-            "series": 3,
-            "repetitions": 10,
-            "rest": 60,
-            "ilustration_url": "https://gymvisual.com/img/p/5/0/7/6/5076.gif"
-        },
-        {
-            "name": "Elevação Lateral em Pé",
-            "group": "Ombros",
-            "series": 3,
-            "repetitions": "12",
-            "rest": 45,
-            "details": "Tradicional",
-            "ilustration_url": "https://gymvisual.com/img/p/1/9/1/5/1/19151.gif"
-        },
-        {
-            "name": "Tríceps Testa Corda",
-            "group": "Tríceps",
-            "series": 3,
-            "repetitions": "15",
-            "rest": 45,
-            "details": "Tradicional",
-            "ilustration_url": "https://gymvisual.com/img/p/9/7/2/6/9726.gif"
-        },
-        {
-            "name": "Tríceps Coice Polia ou Haltere",
-            "group": "Tríceps",
-            "series": 3,
-            "repetitions": "12 + 12",
-            "rest": 45,
-            "details": "Tradicional",
-            "ilustration_url": "https://gymvisual.com/img/p/7/5/4/4/7544.gif"
-        },
-        {
-            "name": "Abdominal com Carga",
-            "group": "Abdome",
-            "series": 3,
-            "repetitions": 30,
-            "rest": 45,
-            "ilustration_url": "https://gymvisual.com/img/p/5/5/5/4/5554.gif"
-        },
-        {
-            "name": "Esteira",
-            "group": "Cardio",
-            "series": 1,
-            "repetitions": "12 minutos",
-            "details": "Ritmado",
-            "ilustration_url": "https://gymvisual.com/img/p/2/5/0/2/4/25024.gif"
         }
       ]
     }
