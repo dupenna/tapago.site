@@ -5,7 +5,7 @@
   "trainings": [
     {
       "name": "Treino A",
-      "description": "Membros Superiores",
+      "description": "Membros Inferiores",
       "exercises": [
         {
             "name": "Leg Press Horizontal",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Treino B",
-      "description": "Membros Inferiores",
+      "description": "Membros Superiores",
       "exercises": [
         {
             "name": "Remada Baixa Triângulo",
@@ -172,7 +172,7 @@
     },
     {
       "name": "Treino C",
-      "description": "Membros Superiores",
+      "description": "Membros Inferiores",
       "exercises": [
         {
             "name": "Cadeira Abdutora",
