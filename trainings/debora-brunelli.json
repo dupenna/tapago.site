@@ -2,222 +2,449 @@
     "name": "Debora Brunelli",
     "birthdate": "1967-18-03",
     "gender": "female",
-    "orientations": "Semana 1 e 2: Manter prescrição\nSemana 3: Aumento de carga\nSemana 4 e 5: 4 séries de membros inferiores",
+    "orientations": "Semana 1 e 2: Manter prescrição\nSemana 3: Aumento de carga\nSemana 4: Manter prescrição\nSemana 5: Aumento de carga",
     "trainings": [
-      {
-        "name": "Treino A",
-        "description": "Pernas",
-        "exercises": [
-            {
-                "name": "Agachamento Livre",
-                "group": "Quadríceps",
-                "series": 4,
-                "repetitions": 8,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/1/6/2/8/21628.gif"
-            },
-            {
-                "name": "Cadeira Extensora",
-                "group": "Quadríceps",
-                "series": 3,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "details": "Drop na última série",
-                "ilustration_url": "https://gymvisual.com/img/p/5/3/2/2/5322.gif"
-            },
-            {
-                "name": "Agachamento Búlgaro",
-                "group": "Quadríceps",
-                "series": 3,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/1/6/9/1/21691.gif"
-            },
-            {
-                "name": "Agachamento Sumô",
-                "group": "Quadríceps",
-                "series": 3,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/5/9/5/7/25957.gif"
-            },
-            {
-                "name": "Abdominal Supra",
-                "group": "Abdome",
-                "series": 5,
-                "repetitions": 20,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
-            },
-            {
-                "name": "Prancha frontal",
-                "group": "Abdome",
-                "series": 3,
-                "repetitions": "45 segundos",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/1/2/7/1/0/12710.gif"
-            }
-        ]
-      },
-      {
-        "name": "Treino B",
-        "description": "Membros Superiores",
-        "exercises": [
-            {
-                "name": "Abdominal Paralelas",
-                "group": "Abdome",
-                "series": 4,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/7/6/3/4/7634.gif"
-            },
-            {
-                "name": "Pulley Anterior Barra Romana",
-                "group": "Costas",
-                "series": 3,
-                "repetitions": "12",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/4/9/7/8/4978.gif"
-            },
-            {
-                "name": "Remada Baixa Triângulo",
-                "group": "Costas",
-                "series": 3,
-                "repetitions": "8 a 12",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/7/3/2/7/7327.gif"
-            },
-            {
-                "name": "Pulldow",
-                "group": "Costas",
-                "series": 3,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/4/9/7/1/4971.gif" 
-            },
-            {
-                "name": "Supino Reto Barra",
-                "group": "Peitoral",
-                "series": 4,
-                "repetitions": "8",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/1/8/8/9/21889.gif"
-            },
-            {
-                "name": "Crucifixo Inclinado",
-                "group": "Peitoral",
-                "series": 3,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/1/0/2/8/1/10281.gif"
-            },
-            {
-                "name": "Rosca Direta",
-                "group": "Bíceps",
-                "series": 4,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/2/6/4/6/22646.gif",
-                "biset": true
-            },
-            {
-                "name": "Triceps Testa na Polia",
-                "group": "Tríceps",
-                "series": 4,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/9/7/2/6/9726.gif"
-            },
-            {
-                "name": "Rosca Scott",
-                "group": "Bíceps",
-                "series": 4,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/4/8/0/1/4801.gif",
-                "biset": true
-            },
-            {
-                "name": "Tríceps Francês",
-                "group": "Tríceps",
-                "series": 4,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/4/4/5/6/24456.gif"
-            }
-        ]
-      },
-      {
-        "name": "Treino C",
-        "description": "Pernas",
-        "exercises": [
-            {
-                "name": "Leg Press 45",
-                "group": "Quadríceps",
-                "series": 4,
-                "repetitions": 12,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
-            },
-            {
-                "name": "Cadeira Abdutora",
-                "group": "Abdutores",
-                "series": 3,
-                "repetitions": "20",
-                "details": "10 segundos de isometria no final",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/1/2/7/1/4/12714.gif"
-            },
-            {
-                "name": "Cadeira Flexora",
-                "group": "Posteriores",
-                "series": 3,
-                "repetitions": 12,
-                "details": "Pico de concentração",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif"
-            },
-            {
-                "name": "Stiff com Barra",
-                "group": "Posteriores",
-                "series": 3,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/7/0/1/2/7012.gif"
-            },
-            {
-                "name": "Elevação Pélvica",
-                "group": "Glúteos",
-                "series": 3,
-                "repetitions": "12",
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/5/7/6/1/5761.gif"
-            },
-            {
-                "name": "Flexão Plantar Sentada",
-                "group": "Panturrilhas",
-                "series": 5,
-                "repetitions": 20,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/5/9/0/7/5907.gif"
-            },
-            {
-                "name": "Abdominal Oblíquo",
-                "group": "Abdome",
-                "series": 4,
-                "repetitions": 15,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/2/2/9/7/7/22977.gif"
-            },
-            {
-                "name": "Abdominal Supra Curtinho",
-                "group": "Abdome",
-                "series": 3,
-                "repetitions": 30,
-                "rest": "45 a 60",
-                "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
-            }
-        ]
-      }
+        {
+            "name": "Treino A",
+            "description": "Coxas + Glúteos + Panturrilhas",
+            "exercises": [
+                {
+                    "name": "Afundo no Smith",
+                    "group": "Quadríceps",
+                    "series": 4,
+                    "repetitions": "12",
+                    "rest": 60,
+                    "details": "Tradicional, 12 cada perna",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/0/2/8/2/10282.gif"
+                },
+                {
+                    "name": "Cadeira Extensora",
+                    "group": "Quadríceps",
+                    "series": 4,
+                    "repetitions": "12/10/8/8",
+                    "rest": 120,
+                    "details": "Progressão de carga",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/3/2/2/5322.gif"
+                },
+                {
+                    "name": "Avanço (andando)",
+                    "group": "Quadríceps",
+                    "series": 4,
+                    "repetitions": "8",
+                    "rest": 60,
+                    "details": "Slow, 8 cada perna",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/9/2/8/6/29286.gif"
+                },
+                {
+                    "name": "Agachamento Hack ou Smith",
+                    "group": "Quadríceps",
+                    "series": 4,
+                    "repetitions": "16/8/16/8",
+                    "rest": 120,
+                    "details": "Variando carga (moderada/pesada)",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/3/1/2/7/13127.gif"
+                },
+                {
+                    "name": "Leg Press 45",
+                    "group": "Quadríceps",
+                    "series": 4,
+                    "repetitions": "16/8/16/8",
+                    "rest": 120,
+                    "details": "Variando carga (moderada/pesada)",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
+                },
+                {
+                    "name": "Panturrilha Leg Press",
+                    "group": "Panturrilhas",
+                    "series": 3,
+                    "repetitions": "15 a 20",
+                    "rest": 60,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/6/6/5/4/6654.gif"
+                }
+            ]
+        },
+        {
+            "name": "Treino B",
+            "description": "Superiores",
+            "exercises": [
+                {
+                    "name": "Remada Baixa Triângulo",
+                    "group": "Costas",
+                    "series": 3,
+                    "repetitions": "12 + falha",
+                    "rest": 45,
+                    "details": "Tradicional + falha",
+                    "ilustration_url": "https://gymvisual.com/img/p/7/3/2/7/7327.gif"
+                },
+                {
+                    "name": "Puxador Aberto",
+                    "group": "Costas",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 20,
+                    "details": "Tradicional com pausa curta",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/4/4/7/3/24473.gif"
+                },
+                {
+                    "name": "Crucifixo Reto",
+                    "group": "Peitoral",
+                    "series": 3,
+                    "repetitions": "20",
+                    "rest": 45,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/9/0/9/4/9094.gif"
+                },
+                {
+                    "name": "Elevação Lateral (sentada)",
+                    "group": "Ombros",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/2/8/2/7/9/28279.gif",
+                    "biset": true
+                },
+                {
+                    "name": "Elevação Lateral (em pé)",
+                    "group": "Ombros",
+                    "series": 3,
+                    "repetitions": "até 10",
+                    "rest": 90,
+                    "ilustration_url": "https://gymvisual.com/img/p/1/9/1/5/1/19151.gif"
+                },
+                {
+                    "name": "Tríceps Polia",
+                    "group": "Tríceps",
+                    "series": 4,
+                    "repetitions": "12/10/8/8",
+                    "rest": 90,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/7/6/2/8/27628.gif"
+                },
+                {
+                    "name": "Tríceps Francês",
+                    "group": "Tríceps",
+                    "series": 3,
+                    "repetitions": "10",
+                    "rest": 0,
+                    "details": "Sem pausa, 10 cada lado",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/7/4/4/7/27447.gif"
+                },
+                {
+                    "name": "Rosca Direta Sentada Banco Inclinado",
+                    "group": "Bíceps",
+                    "series": 3,
+                    "repetitions": "10",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/5/1/3/4/5134.gif",
+                    "biset": true
+                },
+                {
+                    "name": "Rosca Martelo (em pé)",
+                    "group": "Bíceps",
+                    "series": 3,
+                    "repetitions": "10",
+                    "rest": 90,
+                    "ilustration_url": "https://gymvisual.com/img/p/5/0/4/6/5046.gif"
+                }
+            ]
+        },
+        {
+            "name": "Treino C",
+            "description": "Coxas + Glúteos + Panturrilhas",
+            "exercises": [
+                {
+                    "name": "Stiff Barra ou Halter",
+                    "group": "Posteriores",
+                    "series": 4,
+                    "repetitions": "12/12/10/10",
+                    "rest": 90,
+                    "details": "Progressão de carga",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/1/7/3/5173.gif"
+                },
+                {
+                    "name": "Mesa Flexora",
+                    "group": "Posteriores",
+                    "series": 4,
+                    "repetitions": "12/10+10/12/10+10",
+                    "rest": 90,
+                    "details": "Drop-set na 2ª e 4ª séries",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/3/0/9/5/13095.gif"
+                },
+                {
+                    "name": "Cadeira Flexora",
+                    "group": "Posteriores",
+                    "series": 4,
+                    "repetitions": "20/10 slow/20/10 slow",
+                    "rest": 90,
+                    "details": "Slow na 2ª e 4ª séries",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif"
+                },
+                {
+                    "name": "Glúteo Graviton ou Polia",
+                    "group": "Glúteos",
+                    "series": 4,
+                    "repetitions": "15",
+                    "rest": 0,
+                    "details": "Tradicional sem pausa, 15 de cada lado",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/0/2/7/6/20276.gif"
+                },
+                {
+                    "name": "Stiff Unilateral Halter",
+                    "group": "Posteriores",
+                    "series": 4,
+                    "repetitions": "12",
+                    "rest": 60,
+                    "ilustration_url": "https://gymvisual.com/img/p/2/0/8/9/9/20899.gif"
+                },
+                {
+                    "name": "Panturrilha Sentada",
+                    "group": "Panturrilhas",
+                    "series": 3,
+                    "repetitions": "20",
+                    "rest": 60,
+                    "ilustration_url": "https://gymvisual.com/img/p/5/3/3/1/5331.gif"
+                }
+            ]
+        },
+        {
+            "name": "Treino D",
+            "description": "Coxas + Glúteos + Cardio",
+            "exercises": [
+                {
+                    "name": "Agachamento Livre",
+                    "group": "Quadríceps",
+                    "series": 3,
+                    "repetitions": "10 a 12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/6/3/3/9/6339.gif"
+                },
+                {
+                    "name": "Afundo Halter",
+                    "group": "Quadríceps",
+                    "series": 3,
+                    "repetitions": "10",
+                    "rest": 30,
+                    "details": "Tradicional, 10 cada perna",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/0/8/4/1/20841.gif"
+                },
+                {
+                    "name": "Cadeira Extensora",
+                    "group": "Quadríceps",
+                    "series": 3,
+                    "repetitions": "10 a 12",
+                    "rest": 45,
+                    "details": "Slow",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/3/2/2/5322.gif"
+                },
+                {
+                    "name": "Leg Press 45",
+                    "group": "Quadríceps",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/4/6/3/5463.gif"
+                },
+                {
+                    "name": "Cadeira Adutora",
+                    "group": "Adutores",
+                    "series": 3,
+                    "repetitions": "15",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
+                },
+                {
+                    "name": "Bike ou Esteira",
+                    "group": "Cardio",
+                    "series": 3,
+                    "repetitions": "5 minutos",
+                    "rest": 0,
+                    "details": "Circuito",
+                    "ilustration_url": "https://gymvisual.com/img/p/8/7/5/9/8759.gif",
+                    "biset": true
+                },
+                {
+                    "name": "Abdominais",
+                    "group": "Abdome",
+                    "series": 3,
+                    "repetitions": "30",
+                    "rest": 0,
+                    "details": "Circuito",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
+                }
+            ]
+        },
+        {
+            "name": "Treino E",
+            "description": "Superiores + Abdômen + Cardio",
+            "exercises": [
+                {
+                    "name": "Supino Reto Halter",
+                    "group": "Peitoral",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/1/8/3/2/21832.gif"
+                },
+                {
+                    "name": "Cruxifixo na Máquina (Fly)",
+                    "group": "Peitoral",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/3/3/3/5333.gif"
+                },
+                {
+                    "name": "Tríceps Corda Polia",
+                    "group": "Tríceps",
+                    "series": 3,
+                    "repetitions": "15",
+                    "rest": 40,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/0/4/7/2/10472.gif"
+                },
+                {
+                    "name": "Puxador Triângulo",
+                    "group": "Costas",
+                    "series": 3,
+                    "repetitions": "15",
+                    "rest": 40,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/4/9/1/0/4910.gif"
+                },
+                {
+                    "name": "Puxador Aberto",
+                    "group": "Costas",
+                    "series": 3,
+                    "repetitions": "15",
+                    "rest": 40,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/4/4/7/3/24473.gif"
+                },
+                {
+                    "name": "Rosca Halter Sentado",
+                    "group": "Bíceps",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/7/2/9/2/7292.gif"
+                },
+                {
+                    "name": "Caminhada Esteira",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "10 a 15 minutos",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/2/5/0/2/4/25024.gif"
+                },
+                {
+                    "name": "Abdominais",
+                    "group": "Abdome",
+                    "series": 1,
+                    "repetitions": "50",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
+                }
+            ]
+        },
+        {
+            "name": "Treino F",
+            "description": "Inferiores + Cardio",
+            "exercises": [
+                {
+                    "name": "Stiff Barra ou Halter",
+                    "group": "Posteriores",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/1/7/3/5173.gif"
+                },
+                {
+                    "name": "Esteira (corrida)",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "3 minutos",
+                    "rest": 30,
+                    "details": "30 segundos forte / 30 segundos fraco",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/5/0/2/4/25024.gif"
+                },
+                {
+                    "name": "Cadeira Flexora",
+                    "group": "Posteriores",
+                    "series": 3,
+                    "repetitions": "12",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/1/0/4/8/2/10482.gif"
+                },
+                {
+                    "name": "Bike",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "3 minutos",
+                    "rest": 45,
+                    "details": "45 segundos forte / 45 segundos fraco",
+                    "ilustration_url": "https://gymvisual.com/img/p/8/7/5/9/8759.gif"
+                },
+                {
+                    "name": "Cadeira Adutora",
+                    "group": "Adutores",
+                    "series": 3,
+                    "repetitions": "15",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/2/4/9/4/6/24946.gif"
+                },
+                {
+                    "name": "Esteira (corrida)",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "3 minutos",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/2/5/0/2/4/25024.gif",
+                    "biset": true
+                },
+                {
+                    "name": "Abdominais",
+                    "group": "Abdome",
+                    "series": 1,
+                    "repetitions": "30",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/5/0/0/7/5007.gif"
+                },
+                {
+                    "name": "Gêmeos Sentada",
+                    "group": "Panturrilhas",
+                    "series": 3,
+                    "repetitions": "20",
+                    "rest": 30,
+                    "details": "Tradicional",
+                    "ilustration_url": "https://gymvisual.com/img/p/5/3/3/1/5331.gif"
+                },
+                {
+                    "name": "Bike",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "3 minutos",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/8/7/5/9/8759.gif",
+                    "biset": true
+                },
+                {
+                    "name": "Polichinelo",
+                    "group": "Cardio",
+                    "series": 1,
+                    "repetitions": "50",
+                    "rest": 0,
+                    "ilustration_url": "https://gymvisual.com/img/p/1/4/9/3/7/14937.gif"
+                }
+            ]
+        }
     ]
-  }
+}
