@@ -1,7 +1,7 @@
 {
     "name": "Glaucia Pinotti",
     "gender": "female",
-    "orientations": "Semana 1: Manter prescrição\nSemana 2: Aumento de 1 série nos exercícios de inferiores\nSemana 3: aumento de carga geral + Idem semana 1\nSemana 4: Idem semana 2\nSemana 5: Idem semana 3",
+    "orientations": "Semana 1: Manter prescrição\nSemana 2: Manter prescrição\nSemana 3: aumento de carga\nSemana 4: 4 séries de todos os exercícios de inferiores\nSemana 5: 4 séries de todos os exercícios de inferiores",
     "trainings": [
         {
             "name": "Treino A",
